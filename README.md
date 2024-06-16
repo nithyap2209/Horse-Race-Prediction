@@ -31,5 +31,5 @@ Detailed information on horse races and individual horses from 1990 to 2020.
 3. Run the analysis: `python src/main.py`
 
 ## Conclusion
-The model achieved an accuracy of XX% using RandomForestClassifier with tuned hyperparameters.
+The model achieved an Average MSE: 75.1685 and Average R^2: 0.1609  using LinearRegression with tuned hyperparameters.
 
