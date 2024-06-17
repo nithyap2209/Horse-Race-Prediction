@@ -1,4 +1,6 @@
 # Horse-Race-Prediction
+### Google drive link : https://drive.google.com/drive/folders/1Qd-kH0XKfC9hgOFYrVP1HRMk0_VWNRay?usp=sharing
+### LinkedIN Link: https://www.linkedin.com/in/nithyalakshmi-p-a3a191217/
 ## Introduction
 This project aims to predict horse racing outcomes using machine learning techniques.
 
